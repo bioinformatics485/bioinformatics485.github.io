@@ -1,22 +1,24 @@
-# Bioinformatics 126:485, Spring 2025 @ Rutgers University, New Brunswick
+# *Bioinformatics 126:485*, Spring 2025 @ Rutgers University, New Brunswick
 
 # Course Information and Policies
 
-Semester: Spring 2025
+**Semester:** Spring 2025
 
 Meeting Times:
 
-Course URL: http://bioinformatics485.github.io
+Course URL: [`bioinformatics485.github.io`](http://bioinformatics485.github.io)
 
 Instructor:
 
 Office Hours:
 
+**Textbook:** [*Python Cookbook*, 3rd Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
+
 # Course Description:
 
 # Course Goals:
-* Learn Python and Jupyter for Bioinformatics
-* Learn Data Visualization for Bioinformatics
+- [x] Learn Python and Jupyter for Bioinformatics
+- [x] Learn Data Visualization for Bioinformatics
 
 # Schedule
 
