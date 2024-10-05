@@ -12,7 +12,9 @@ Instructor:
 
 Office Hours:
 
-**Textbook:** [*Python Cookbook*, 3rd Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
+**Textbooks:**
+* [*Head first Python*, 3rd Edition](https://www.oreilly.com/library/view/head-first-python/9781492051282/) (introductory)
+* [*Python Cookbook*, 3rd Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) (advanced examples)
 
 # Course Description:
 
