@@ -31,7 +31,7 @@ Office Hours:
 | ---- | ---- | ------------------------------ | ------------------- | -------------------------- | --------- |
 | 0    |      | Pre-Reqs                       | [**How to read a paper**](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |                            |           |
 | 1    |      | Introduction to Bioinformatics |                     | Install Python and Jupyter |           |
-| 2  |  | Introduction to the Terminal, Unix                   | [`grep`](https://wizardzines.com/comics/grep/) |  |  |
+| 2  |  | Introduction to the Terminal, Unix                   | [`grep`](https://wizardzines.com/comics/grep/) [command line arguments](https://wizardzines.com/comics/command-line-arguments/)|  |  |
 | 3  |  | More Unix with Sed and Awk                              |  |  |  |
 | 4  |  | Introduction to Python and Jupyter (Ch 1)            |  |  |
 | 5  |  | Python Data Structures: Dictionaries, Lists and Loops (Ch 1)   |  |  |
