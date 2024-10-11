@@ -13,7 +13,8 @@ Instructor:
 Office Hours:
 
 **Textbooks:**
-* [*Head first Python*, 3rd Edition](https://www.oreilly.com/library/view/head-first-python/9781492051282/) (introductory)
+* [*Head First Python*, 3rd Edition](https://www.oreilly.com/library/view/head-first-python/9781492051282/) (introductory)
+* [*Bioinformatics Data Skills*](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/) (R examples)
 * [*Python Cookbook*, 3rd Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) (advanced examples)
 
 # Course Description:
