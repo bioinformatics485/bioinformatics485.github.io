@@ -46,10 +46,10 @@ Office Hours:
 | 13 |  | Exam                                                 |  |  |  |
 | 14 |  | Sequence Alignment 1                                 |  |  |  |
 | 15 |  | Sequence Alignment 2                                 |  |  |  |
-| 16 |  | NGS 1                                                |  |  |  |
-| 17 |  | NGS 2                                                |  |  |  |
-| 18 |  | NGS 3                                                |  |  |  |
+| 16 |  | NGS 1 - Sequencing                                               |  |  |  |
+| 17 |  | NGS 2 - RNA-seq                                               |  |  |  |
+| 18 |  | NGS 3 - scRNA-seq                                               |  |  |  |
 | 19 |  | NGS 4                                                |  |  |  |
-| 20 |  | NGS 5                                                |  |  |  |
+| 20 |  | NGS 5 - Metagenomics                                               |  |  |  |
 | 21 |  | Conclusions & Where to go from here                  |  |  |  |
 | 22 |  | Final Exam (Open Book)                               |  |  |  |
